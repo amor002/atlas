@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">atlas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal">normal</string>
+    <string name="terrain">terrain</string>
+    <string name="hybrid">hybrid</string>
+    <string name="satellite">satellite</string>
+</resources>
